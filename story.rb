@@ -6,10 +6,10 @@ require 'pry'
 
 #show the user a message asking them for a title
 
-#store the input in a variable
+#store the input in a variable called "user_title"
 
 #show the user a message asking for their rating of the movie out of 100
 
-# store the input in a variable
+# store the input in a variable "user_rating"
 
 display_story(user_title, user_rating)
